@@ -18,7 +18,7 @@ The repository includes the Python source code implementing the proposed QNN-BiG
 
 The experiments use a selected subset of the publicly available Google Cluster Usage Traces v3 dataset.
 
-Original dataset: https://github.com/google/cluster-data
+Original dataset: [https://github.com/google/cluster-data](https://github.com/google/cluster-data/blob/master/ClusterData2019.md)
 
 ## Availability
 
